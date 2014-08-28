@@ -19,7 +19,7 @@ MAKE SURE EVERY FILE EXTENSION IS ON ITS OWN LINE, OR IT WILL NOT BE READ BY THE
 
 Press the "Randomize!" button to add random numbers to the beginning of the files.  A special character, ")" will also be added.
 
-Press the "deRandomize!" button to revert every file in the selected folder to its original name.  This works by looking for the special character ")" in the 5th character position of the file name, and deleting everything up to and including it.  THIS MEANS THAT IF YOU HAVE ANY OTHER FILES WITH ")" AS THEIR 5TH CHARACTER IN THE SELECTED FOLDER, THEY WILL BE RENAMED.  BE CAREFUL!
+Press the "deRandomize!" button to revert every file in the selected folder to its original name.  This works by looking for the special character ")" in the 5th character position of the file name, and deleting everything up to and including it.  THIS MEANS THAT IF YOU HAVE ANY OTHER FILES IN THE SELECTED FOLDER WITH ")" AS THEIR 5TH CHARACTER, THEY WILL BE RENAMED.  BE CAREFUL!
 Every file in the selected folder will be deRandomized, regardless of what extensions are selected.
 
 Thanks for trying my program!
